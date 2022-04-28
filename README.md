@@ -20,13 +20,13 @@ Utilizando uma linguagem de script à sua escolha, construa um projeto (servido 
 As estatísticas devem incluir (como mínimo):
 
 
-[] 1. Carga actual da CPU, tempo de espera e utilização de memória (opcionalmente reportado como slab, cache, RSS, etc.)
-[] 2. Se existem actualizações pendentes (opcionalmente, reportando actualizações de segurança independentemente)
-[] 3. Utilização actual do disco e desempenho de leitura/escrita
+1. Carga actual da CPU, tempo de espera e utilização de memória (opcionalmente reportado como slab, cache, RSS, etc.)
+2. Se existem actualizações pendentes (opcionalmente, reportando actualizações de segurança independentemente)
+3. Utilização actual do disco e desempenho de leitura/escrita
 
 O resultado final pode incluir quaisquer outras estatísticas que considere importantes para efeitos de monitorização do servidor. Você pode considerar a possibilidade de construir o script em cima do projeto [dstat](https://github.com/dagwieers/dstat).
 
-**obs:* O seu código deve ser entregue a um repositório Git que demonstram uma compreensão de conceitos tais como ramificação de branchs e merges requests.
+**obs:** O seu código deve ser entregue a um repositório Git que demonstram uma compreensão de conceitos tais como ramificação de branchs e merges requests.
 
 
 ## Readme do Repositório
